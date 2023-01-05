@@ -6,7 +6,7 @@ The goal of this repo is to deploy an VMware home lab using Inastrastrature as c
 
 ### Ansible Control Node
 #### MacOS:
-1. install [Homebrew] (https://brew.sh)
+1. install [Homebrew](https://brew.sh)
 
 ### Vagrant
 
