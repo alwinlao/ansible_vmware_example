@@ -1,0 +1,24 @@
+---
+- name: Install Ansible collection
+  hosts: localhost
+  connection: local
+  tasks:
+  - name: Install community.vmware
+    community.general.ansible_galaxy_install:
+      type: collection
+      name: community.vmware
+  - name: Install vmware.vmware_rest
+    community.general.ansible_galaxy_install:
+      type: collection
+      name: vmware.vmware_rest
+
+  - name: Install Vagrant
+    community.general.homebrew_cask:
+      name: vagrant
+      state: present
+
+  - name: Install Vagrant ESXi plugin #refactor to install only when missing
+    ansible.builtin.command: vagrant plugin install vagrant-vmware-esxi
+    register: output
+  - debug:
+      var: output.stdout_lines

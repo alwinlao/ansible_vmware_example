@@ -1,0 +1,28 @@
+ansible-core==2.14.1
+certifi==2022.12.7
+cffi==1.15.1
+charset-normalizer==2.1.1
+cryptography==39.0.0
+idna==3.4
+Jinja2==3.1.2
+lxml==4.9.2
+MarkupSafe==2.1.1
+nsx-policy-python-sdk @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/nsx-policy-python-sdk/nsx_policy_python_sdk-3.1.5.0.0-py2.py3-none-any.whl
+nsx-python-sdk @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/nsx-python-sdk/nsx_python_sdk-3.1.5.0.0-py2.py3-none-any.whl
+nsx-vmc-aws-integration-python-sdk @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/nsx-vmc-aws-integration-python-sdk/nsx_vmc_aws_integration_python_sdk-3.1.5.0.0-py2.py3-none-any.whl
+nsx-vmc-policy-python-sdk @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/nsx-vmc-policy-python-sdk/nsx_vmc_policy_python_sdk-3.1.5.0.0-py2.py3-none-any.whl
+packaging==22.0
+pycparser==2.21
+pyOpenSSL==23.0.0
+pyvmomi==8.0.0.1.1
+PyYAML==6.0
+requests==2.28.1
+resolvelib==0.8.1
+six==1.16.0
+urllib3==1.26.13
+vapi-client-bindings @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/vapi-client-bindings/vapi_client_bindings-3.8.0-py2.py3-none-any.whl
+vapi-common-client @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/vapi-common-client/vapi_common_client-2.34.0-py2.py3-none-any.whl
+vapi-runtime @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/vapi-runtime/vapi_runtime-2.34.0-py2.py3-none-any.whl
+vmc-client-bindings @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/vmc-client-bindings/vmc_client_bindings-1.59.0-py2.py3-none-any.whl
+vmc-draas-client-bindings @ file://localhost//private/var/folders/c6/nd3p0yks7dq47tvvl0xx1rqh0000gn/T/pip-install-wi1h485a/vsphere-automation-sdk_3f7be672a9ac4c0c8fc631c2c585720e/lib/vmc-draas-client-bindings/vmc_draas_client_bindings-1.18.0-py2.py3-none-any.whl
+vSphere-Automation-SDK==1.76.0
